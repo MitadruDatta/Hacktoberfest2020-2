@@ -32,7 +32,7 @@
  - GitHub: [jg7](https://github.com/jg7)
  #### Name: [Mateus Matias](https://github.com/ummatias)
  - Place: Campina Grande, Brasil
- - Bio: Student of Computer Science 
+ - Bio: Student of Computer Science
  - GitHub: [ummatias](https://github.com/ummatias)
 #### Name: [Rafael Sales](https://github.com/umphael)
  - Place: Esperança/Brasil
@@ -181,11 +181,11 @@
 #### Name: [Sidharth] (https://github.com/ssidharths)
 - Place: Kerala
 - Bio : BackendDev
-- Github: [ssidharths] (https://github.com/ssidharths) 
+- Github: [ssidharths] (https://github.com/ssidharths)
 #### Name: [Adharsh] (https://github.com/AdharshAntony)
 - Place: Kerala
 - Bio : ece and kungfu
-- Github: [AdharshAntony] (https://github.com/AdharshAntony) 
+- Github: [AdharshAntony] (https://github.com/AdharshAntony)
 #### Name: [tremont] (https://github.com/tremont)
 - Place: Louisville
 - Bio : QA Engineer
@@ -254,3 +254,7 @@
  - Place: Kerala,india
  - Bio: Student
  - Github: [farzinafa](https://github.com/farzinafa)
+#### Name: [Mitadru Datta](https://github.com/MitadruDatta)
+- Place: Kolkata, West Bengal, India
+- Bio: Student
+- Github: [MitadruDatta](https://github.com/MitadruDatta) 
